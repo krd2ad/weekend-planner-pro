@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { Instagram, Mail } from "lucide-react";
-import logoPine from "@/assets/logo-pine.png";
+import logoFullLight from "@/assets/logo-full-light.svg";
 
 const Footer = () => {
   return (
@@ -9,7 +9,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12">
           {/* Brand */}
           <div className="space-y-4">
-            <img src={logoPine} alt="Sorry Mom & Co" className="h-8" />
+            <img src={logoFullLight} alt="Sorry Mom & Co" className="h-10 w-auto" />
             <p className="text-sm text-muted-foreground leading-relaxed">
               Boutique bachelorette weekends, planned to perfection. We handle the packing so that you can focus on celebrating.
             </p>
