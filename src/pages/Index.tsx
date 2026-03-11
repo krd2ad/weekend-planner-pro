@@ -271,7 +271,7 @@ const Index = () => {
               Get the Weekend Playbook
             </motion.h2>
             <motion.p variants={fadeUp} custom={2} className="text-muted-foreground font-sans mb-8 leading-relaxed">
-              Your go-to guide for planning the perfect bachelorette weekend — includes a sample package, sample event itinerary, and budget template.
+              Your go-to guide for planning the perfect bachelorette weekend — includes a sample package list, event itinerary, and budget template.
             </motion.p>
             <motion.form variants={fadeUp} custom={3} onSubmit={handleNewsletter} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
               <input
