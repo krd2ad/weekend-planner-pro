@@ -40,7 +40,7 @@ const Index = () => {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-lg md:text-xl text-muted-foreground font-sans max-w-2xl mx-auto mb-10 leading-relaxed"
           >
-            We handle the itinerary, reservations, vendors, and vibe. You show up and celebrate.
+            We handle the prep-work, planning, and vibe. You show up and celebrate.
           </motion.p>
           <motion.div
             initial={{ opacity: 0, y: 20 }}
