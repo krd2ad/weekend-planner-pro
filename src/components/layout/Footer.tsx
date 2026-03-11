@@ -11,7 +11,7 @@ const Footer = () => {
           <div className="space-y-4">
             <img src={logoPine} alt="Sorry Mom & Co" className="h-8" />
             <p className="text-sm text-muted-foreground leading-relaxed">
-              Boutique bachelorette weekends, planned to perfection. We handle the details so you can celebrate.
+              Boutique bachelorette weekends, planned to perfection. We handle the packing so that you can focus on celebrating.
             </p>
             <div className="flex gap-4">
               <a href="#" className="text-muted-foreground hover:text-primary transition-colors" aria-label="Instagram">
